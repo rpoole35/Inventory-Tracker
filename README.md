@@ -6,6 +6,7 @@ Small device attached to wall that can read barcodes and sends this to a home au
 ## Questions
 1. What to do if a barcode is unknown?
 2. Whether or not a UI needs to be made to capture barcodes and enter best buy dates?
+3. Whether or not to process barcode on ESP32 or Server
 ## Current Status
 Researching how to get pixel data from ESP Cam for processing barcodes
 
